@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "/home/bazylevnik0/Projects/raymob/app/src/main/cpp/CMakeLists.txt",
+    "/home/bazylevnik0/Projects/raymob/app/src/main/cpp/deps/raylib/CMakeLists.txt",
+    "/home/bazylevnik0/Projects/raymob/app/src/main/cpp/deps/raymob/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/bazylevnik0/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/bazylevnik0/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "raymoblib::@71420b749f8138f26715": {
+      "artifactName": "raymoblib",
+      "abi": "x86",
+      "output": "/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raymob/libraymoblib.a",
+      "runtimeFiles": []
+    },
+    "raymob::@6890427a1f51a3e7e1df": {
+      "artifactName": "raymob",
+      "abi": "x86",
+      "output": "/home/bazylevnik0/Projects/raymob/app/build/intermediates/cxx/Debug/6ne3i502/obj/x86/libraymob.so",
+      "runtimeFiles": []
+    },
+    "raylib::@8e6642aeca8dad46aa8c": {
+      "artifactName": "raylib",
+      "abi": "x86",
+      "output": "/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raylib/libraylib.a",
+      "runtimeFiles": []
+    }
+  }
+}

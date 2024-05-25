@@ -1,0 +1,9 @@
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/raymob.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/edit_cache.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/rebuild_cache.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raylib/CMakeFiles/raylib.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raylib/CMakeFiles/edit_cache.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raylib/CMakeFiles/rebuild_cache.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raymob/CMakeFiles/raymoblib.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raymob/CMakeFiles/edit_cache.dir
+/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86/deps/raymob/CMakeFiles/rebuild_cache.dir

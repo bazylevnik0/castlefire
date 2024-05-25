@@ -1,0 +1,15 @@
+# ninja log v5
+1	112	1716644514450926447	CMakeFiles/raymob.dir/main.c.o	1cb9581993db2454
+11	354	1716644514685928280	CMakeFiles/raymob.dir/home/bazylevnik0/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	281bde932426be72
+12	774	1716644515100931519	deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o	ce9aef384a3f646e
+13	971	1716644515298933064	deps/raylib/CMakeFiles/raylib.dir/rtext.c.o	fb036a2f25430237
+774	1010	1716644515344933423	deps/raylib/CMakeFiles/raylib.dir/utils.c.o	e29b37790b27dbee
+1010	1232	1716644515563935132	deps/raymob/CMakeFiles/raymoblib.dir/features.c.o	3efdaf7ae35a306d
+971	1291	1716644515626935623	deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o	9309dfed60fe0828
+11	2005	1716644516329941109	deps/raylib/CMakeFiles/raylib.dir/rcore.c.o	6078e204dfd5a9b8
+12	3407	1716644517682951667	deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o	d945ea0fcfff0611
+113	4193	1716644518515958168	deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o	c3d36f217eb128d5
+354	6788	1716644521064978059	deps/raylib/CMakeFiles/raylib.dir/raudio.c.o	b90e7610a8d1ab31
+6788	6960	1716644521297979877	deps/raylib/libraylib.a	7eaac3d7f6817b84
+6960	6982	1716644521317980033	deps/raymob/libraymoblib.a	986faf0c5c7ad028
+6982	7188	1716644521512981555	/home/bazylevnik0/Projects/raymob/app/build/intermediates/cxx/Debug/6ne3i502/obj/x86_64/libraymob.so	46fa966d945e385
