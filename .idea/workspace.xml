@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baab9a5e-75c0-4a2a-834b-891072c796ab" name="Changes" comment="uploaded template">
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/cache-v2-1dbe9e4bf950f5d1d109.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-f7c13080d81108254a4a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-acb749131f330a92c9b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/index-2024-05-25T17-43-14-0104.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/target-raymob-Debug-610304c83271f0c6571b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/target-raymoblib-Debug-9a7e5cdac2870055d6ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/cache-v2-39ad8b169496fbe49618.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/cmakeFiles-v1-754c57d1530039ebcc8e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/codemodel-v2-2a4cc76c9c47f07a44bd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/index-2024-05-25T17-42-46-0839.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/target-raymob-Debug-f5ab8acdd285c008824b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/target-raymoblib-Debug-bca21f6164a49a535a8e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/cache-v2-0d4329ffa5e1c94ade02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/cmakeFiles-v1-05b707c26653e6084523.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/codemodel-v2-5103a466a7eb94595816.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/index-2024-05-25T17-44-41-0947.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/target-raymob-Debug-caf6535d7970fa5b660e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/target-raymoblib-Debug-bca21f6164a49a535a8e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/cache-v2-fb763a5c193f09ff264f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-ea1eb0dcbb4a1cfcd680.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-343c994d647ee2d087fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/index-2024-05-25T14-13-05-0108.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/target-raymob-Debug-92130aa6edbba5a8fafe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.cmake/api/v1/reply/target-raymoblib-Debug-61bf3db286c53f71c1ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/raymob.dir/home/bazylevnik0/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/raymob.dir/home/bazylevnik0/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/raymob.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/raymob.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/android_gradle_build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/build_file_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/build_file_index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/compile_commands.json.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/compile_commands.json.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/configure_fingerprint.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/raudio.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/raudio.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rcore.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rcore.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rtext.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rtext.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/utils.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/CMakeFiles/raylib.dir/utils.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/libraylib.a" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raylib/libraylib.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/CMakeFiles/raymoblib.dir/features.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/CMakeFiles/raymoblib.dir/features.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/libraymoblib.a" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/deps/raymob/libraymoblib.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/metadata_generation_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/metadata_generation_command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/symbol_folder_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/armeabi-v7a/symbol_folder_index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/cache-v2-1233e53c31f7d7023809.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/cmakeFiles-v1-e088de7feab1d566fca1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/codemodel-v2-b69e23d3e2144d927eeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/index-2024-05-25T13-40-06-0556.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/target-raymob-Debug-eef791a1901efe57f6db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/.cmake/api/v1/reply/target-raymoblib-Debug-81605516c46b7c527adb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/android_gradle_build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/android_gradle_build_mini.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/build_file_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/build_file_index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/compile_commands.json.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/compile_commands.json.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/configure_fingerprint.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/deps/raylib/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/deps/raylib/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/deps/raymob/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/deps/raymob/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/symbol_folder_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86/symbol_folder_index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/cache-v2-5ceaf108dd9c3ee79597.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/cmakeFiles-v1-1c5a53802216046fa0b1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/codemodel-v2-f88295724b91aba85639.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/index-2024-05-25T13-41-50-0159.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/target-raymob-Debug-47444aa23c33e064084d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.cmake/api/v1/reply/target-raymoblib-Debug-81605516c46b7c527adb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/raymob.dir/home/bazylevnik0/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/raymob.dir/home/bazylevnik0/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/raymob.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/raymob.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/android_gradle_build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/android_gradle_build_mini.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/build_file_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/build_file_index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/compile_commands.json.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/compile_commands.json.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/configure_fingerprint.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/raudio.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/raudio.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rcore.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rcore.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtext.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtext.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/utils.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/CMakeFiles/raylib.dir/utils.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/libraylib.a" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/libraylib.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/features.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/features.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/libraymoblib.a" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/libraymoblib.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/metadata_generation_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/metadata_generation_command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/symbol_folder_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/6ne3i502/x86_64/symbol_folder_index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/tools/debug/armeabi-v7a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/tools/debug/armeabi-v7a/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/tools/debug/x86/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/tools/debug/x86/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.cxx/tools/debug/x86_64/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/tools/debug/x86_64/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/king.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/king.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/witch.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/witch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/home/bazylevnik0/.var/app/com.google.AndroidStudio/config/.android/avd/New_Device_API_33_2.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="raymob" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="raymob" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="raymob" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="raymob" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gxpq1JOz8YCNXgdSoikYO6fRzl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bazylevnik0/Projects/castlefire&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="raymob.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baab9a5e-75c0-4a2a-834b-891072c796ab" name="Changes" comment="" />
+      <created>1716649270242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716649270242</updated>
+    </task>
+    <task id="LOCAL-00001" summary="uploaded template">
+      <option name="closed" value="true" />
+      <created>1716649435839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716649435839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="uploaded template">
+      <option name="closed" value="true" />
+      <created>1716649449247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716649449247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="uploaded template" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded template" />
+  </component>
+</project>

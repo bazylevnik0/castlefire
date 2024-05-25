@@ -1,4 +1,4 @@
-# Install script for directory: /home/bazylevnik0/Projects/raymob/app/src/main/cpp
+# Install script for directory: /home/bazylevnik0/Projects/castlefire/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/cmake_install.cmake")
+  include("/home/bazylevnik0/Projects/castlefire/app/.cxx/Debug/6ne3i502/x86_64/deps/raylib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/cmake_install.cmake")
+  include("/home/bazylevnik0/Projects/castlefire/app/.cxx/Debug/6ne3i502/x86_64/deps/raymob/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bazylevnik0/Projects/raymob/app/.cxx/Debug/6ne3i502/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bazylevnik0/Projects/castlefire/app/.cxx/Debug/6ne3i502/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
