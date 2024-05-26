@@ -19,7 +19,7 @@
 
 #include <stdlib.h>
 #include "raymob.h" // This header can replace 'raylib.h' and includes additional functions related to Android.
-
+#include "../raylib/raymath.h"
 //------------------------------------------------------------------------------------
 // Program main entry point
 //------------------------------------------------------------------------------------
@@ -50,26 +50,27 @@ int main(void)
     //--------------------------------------------------------------------------------------
     Texture2D texture_witch = LoadTextureFromImage(LoadImage("witch.png"));
     Texture2D texture_king  = LoadTextureFromImage(LoadImage("king.png"));
-    Texture2D texture_back  = LoadTextureFromImage(LoadImage("back.png"));
+    Texture2D texture_back[2];
+              texture_back[0]  = LoadTextureFromImage(LoadImage("back0.png"));
+              texture_back[1]  = LoadTextureFromImage(LoadImage("back1.png"));
 
-    Model house_model[4];
-    house_model[0] = LoadModel("house0.glb");
-    house_model[1] = LoadModel("house1.glb");
-    house_model[2] = LoadModel("house2.glb");
-    house_model[3] = LoadModel("house3.glb");
+    Model house_model[5][5];
+    Vector3 house_model_position[5][5];
+    BoundingBox house_model_box[5][5];
+    bool house_model_selected[5][5];
 
-    Vector3 house_position[5][5];
     for (int z = -2; z <= 2; z++) {
         for (int x =-2; x <= 2; x++) {
-            house_position[z+2][x+2] = (Vector3){ x*2.5f, 2.5f, z*2.5f };
-        }
-    }
-    int house_type[5][5];
-    for (int z = 0; z < 5; z++) {
-        for (int x = 0; x < 5; x++) {
             int r = rand() % 4;
-            house_type[z][x] = r;
-        }
+            if (r == 0) house_model[z+2][x+2] = LoadModel("house0.glb");
+            if (r == 1) house_model[z+2][x+2] = LoadModel("house1.glb");
+            if (r == 2) house_model[z+2][x+2] = LoadModel("house2.glb");
+            if (r == 3) house_model[z+2][x+2] = LoadModel("house3.glb");
+            house_model_position[z+2][x+2] = (Vector3){ x*2.5f, 2.0, z*2.5f };
+            house_model_box[z+2][x+2] = GetMeshBoundingBox(house_model[z+2][x+2].meshes[0]);
+            house_model_box[z+2][x+2].min = Vector3Add(house_model_box[z+2][x+2].min, (Vector3){ x*2.5f, 2.0, z*2.5f });
+            house_model_box[z+2][x+2].max = Vector3Add(house_model_box[z+2][x+2].max, (Vector3){ x*2.5f, 2.0, z*2.5f });
+         }
     }
     //--------------------------------------------------------------------------------------
 
@@ -82,6 +83,8 @@ int main(void)
     camera.up       = (Vector3){ 0.0f , 1.6f , 0.0f };  // Camera up vector (rotation towards target)
     camera.fovy = 45.0f;                                // Camera field-of-view Y
     camera.projection = CAMERA_PERSPECTIVE;             // Camera projection type
+
+    Ray ray = { 0 };        // Picking ray
     //--------------------------------------------------------------------------------------
 
     // Main game loop
@@ -90,6 +93,20 @@ int main(void)
         // Update
         //----------------------------------------------------------------------------------
         UpdateCamera(&camera, CAMERA_THIRD_PERSON);
+        if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT))
+        {
+            // Get ray and test against objects
+            ray =  GetMouseRay(GetMousePosition(), camera);
+            RayCollision boxHitInfo[5][5];
+            for (int z = 0; z < 5; z++) {
+                for (int x = 0; x < 5; x++) {
+                    boxHitInfo[z][x] = GetRayCollisionBox(ray, house_model_box[z][x]);
+                    if (boxHitInfo[z][x].hit) house_model_selected[z][x] = !house_model_selected[z][x];
+                }
+            }
+
+
+        }
         //----------------------------------------------------------------------------------
 
         // Draw
@@ -98,16 +115,28 @@ int main(void)
 
         ClearBackground(RAYWHITE);
 
-        DrawTexture(texture_back , 0               , 0                , WHITE);
+        {
+            for (int y = 0; y <= screen_height / 200; y++) {
+                for (int x = 0; x <= screen_width / 200; x++) {
+                    DrawTexture(texture_back[(x+y)%2] , x*200 , y*200 , WHITE);
+                }
+            }
+        }
+
         DrawTexture(texture_witch, 0               , screen_height-720, WHITE);
         DrawTexture(texture_king , screen_width-500, screen_height-720, WHITE);
 
         BeginMode3D(camera);
-        for (int z = 0; z < 5; z++) {
-            for (int x = 0; x < 5; x++) {
-                DrawModel(house_model[house_type[z][x]], house_position[z][x], 1.0f, WHITE);
+             for (int z = 0; z < 5; z++) {
+                for (int x = 0; x < 5; x++) {
+                    DrawModel(house_model[z][x], house_model_position[z][x], 1.0f, WHITE);
+                        if (house_model_selected[z][x]) {
+                            DrawBoundingBox(house_model_box[z][x], BLACK);
+                        } else {
+                            DrawBoundingBox(house_model_box[z][x], WHITE);
+                        }
+                }
             }
-        }
         EndMode3D();
 
         DrawText(str_screen_width , 150, 0, 20, BLACK);
@@ -121,13 +150,15 @@ int main(void)
 
     // De-Initialization
     //--------------------------------------------------------------------------------------
-    UnloadModel( house_model[0]);
-    UnloadModel( house_model[0]);
-    UnloadModel( house_model[0]);
-    UnloadModel( house_model[0]);
+     for (int z = 0; z < 5; z++) {
+        for (int x = 0; x < 5; x++) {
+            UnloadModel(house_model[z][x]);
+        }
+    }
     UnloadTexture(texture_witch);
     UnloadTexture(texture_king);
-    UnloadTexture(texture_back);
+    UnloadTexture(texture_back[0]);
+    UnloadTexture(texture_back[1]);
     CloseWindow();        // Close window and OpenGL context
     //--------------------------------------------------------------------------------------
 
